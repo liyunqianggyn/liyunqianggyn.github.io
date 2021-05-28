@@ -31,7 +31,7 @@ Delft University of Technology
   __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
   Research area: Deep Learning and Computer Vision.
 * 03/2017 - 02/2018: __Xi’an Jiaotong University (XJTU)__, China. 
-* __PhD__ candidate. 
+  __PhD__ candidate. 
 * 09/ 2014 - 12/2016: __Joint education of Xi’an Jiaotong University and Air force Engineering__, China.  
   __Master__ of Signal and Information Processing.  
 

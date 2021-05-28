@@ -1,15 +1,13 @@
 # Site wide configuration
 #theme: jekyll-theme-minimal
-title: Wenjie Pei  (裴文杰)
+title: Yunqiang Li  
 locale: en_US
-#description: PhD candidate in Delft University of Technology
-#description: Senior Researcher in Youtu X-Lab, Tencent
-description: Assistant Professor in Harbin Institute of Technology, Shenzhen, China
+description: PhD candidate in Delft University of Technology
   
 owner:
-  name: Wenjie Pei
+  name: Yunqiang Li
   bio: "PhD candidate in Delft University of Technology."
-  email: wenjiecoder@gmail.com
+  email: y.li-19@tudelft.nl
 
 #theme: jekyll-theme-leap-day
 

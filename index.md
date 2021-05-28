@@ -6,6 +6,22 @@ PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology <p/>
 
+
+<b>Post:</b> Postbus 5031, 2600 GA Delft. <br/>
+<b>Email:</b> y.li-19 at-sign TUDelft dot nl  <br/>
+<b>Lab:</b> <a href="http://visionlab.tudelft.nl">Computer vision lab</a><p/>
+ 
+Media</br>
+<b>Youtube:</b> <a href="https://www.youtube.com/channel/UCTPJRHDiHewQGQUq20qiBnA/">Channel</a> <br/> 
+<b>github:</b> <a href="https://github.com/jvgemert">https://github.com/jvgemert</a> <br/>
+<b>Twitter:</b> <a href="https://twitter.com/jan_gemert">https://twitter.com/jan_gemert</a> <br/>
+<b>Research summary (in Dutch): </b><a href="https://www.youtube.com/watch?v=O9n89YcIgCQ">YouTube video</a><p/>
+
+Organization</br>
+<b>Chairman</b> of the <a href="https://asci.tudelft.nl/?page_id=254">ASCI</a> scientific committee.<br/>
+<b>Master coordinator</b> of the <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track">artificial intelligence technology track (AIT) in the MSc program</a>.<br/>
+<b>Teaching</b> the MSc Deep Learning course, the MSc Computer Vision by Deep Learning course, and the BSc Image Processing course.<br/>
+
 ## News
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
 * 04/2021, one paper (on visual tracking) was accepted by __TMM__.

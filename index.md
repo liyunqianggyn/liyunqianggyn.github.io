@@ -9,13 +9,6 @@ Delft University of Technology <p/>
 
 <b>Email:</b> y.li-19 at-sign TUDelft dot nl  <br/>
 <b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
-<b>Twitter:</b> <a href="https://twitter.com/jan_gemert">https://twitter.com/jan_gemert</a> <br/>
-<b>Research summary (in Dutch): </b><a href="https://www.youtube.com/watch?v=O9n89YcIgCQ">YouTube video</a><p/>
-
-Organization</br>
-<b>Chairman</b> of the <a href="https://asci.tudelft.nl/?page_id=254">ASCI</a> scientific committee.<br/>
-<b>Master coordinator</b> of the <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track">artificial intelligence technology track (AIT) in the MSc program</a>.<br/>
-<b>Teaching</b> the MSc Deep Learning course, the MSc Computer Vision by Deep Learning course, and the BSc Image Processing course.<br/>
 
 ## News
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.

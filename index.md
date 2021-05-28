@@ -14,7 +14,7 @@ Delft University of Technology
 ## News
 * 12/2020, one paper was accepted by __AAAI__.
 * 07/2020, two papers were accepted by __ICPR__.
-* 06/2019, one paper was accepted by __TMM__.
+* 06/2019, one paper was accepted by Transactions on Multimedia (__TMM__).
 * 07/2019, one paper was accepted by __BMVC (oral)__.
 
 ## Review

@@ -7,13 +7,8 @@ Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology <p/>
 
 
-<b>Post:</b> Postbus 5031, 2600 GA Delft. <br/>
 <b>Email:</b> y.li-19 at-sign TUDelft dot nl  <br/>
-<b>Lab:</b> <a href="http://visionlab.tudelft.nl">Computer vision lab</a><p/>
- 
-Media</br>
-<b>Youtube:</b> <a href="https://www.youtube.com/channel/UCTPJRHDiHewQGQUq20qiBnA/">Channel</a> <br/> 
-<b>github:</b> <a href="https://github.com/jvgemert">https://github.com/jvgemert</a> <br/>
+<b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
 <b>Twitter:</b> <a href="https://twitter.com/jan_gemert">https://twitter.com/jan_gemert</a> <br/>
 <b>Research summary (in Dutch): </b><a href="https://www.youtube.com/watch?v=O9n89YcIgCQ">YouTube video</a><p/>
 

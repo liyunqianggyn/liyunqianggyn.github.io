@@ -67,7 +67,7 @@ Delft University of Technology
 <br><br>
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/weightalign.png">&emsp;Xiangwei Shi\*, __Yunqiang Li__\*, Xin Liu\*, Jan van Gemert. (\* contributed equally.)<br/>
+- <img align="left" width="300" src="publication/weightalign.png">&emsp;Xiangwei Shi\*, __Yunqiang Li__\*, Xin Liu\*, Jan van Gemert. (\*contributed equally.)<br/>
 &emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/pdf/2010.07160.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
 <br><br>

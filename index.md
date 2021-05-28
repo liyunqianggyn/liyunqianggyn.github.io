@@ -60,7 +60,7 @@ Delft University of Technology
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/TMM_zha.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
-&emsp;Association for the Advancement of Artificial Intelligence (__AAAI__)<span style="color:red">, 2021.  
+&emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2021.  
 &nbsp;
   
 ---------------------------------------------------------------------------------------------------------------------------- 
@@ -84,7 +84,7 @@ Delft University of Technology
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/TMM_zha.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
 &emsp;"Deep Position-Sensitive Tracking" [<a href="https://ieeexplore.ieee.org/abstract/document/8734874">pdf</a>].<br/>
-&emsp;IEEE Transactions on Multimedia (__TMM__)<span style="color:red">, 2019.  
+&emsp;IEEE Transactions on Multimedia (__TMM__), 2019.  
 <br><br>
 
   

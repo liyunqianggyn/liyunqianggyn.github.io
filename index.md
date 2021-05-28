@@ -1,22 +1,11 @@
 <td class="contents">
 <h2>Contact</h2>
 
-#<img align="right" width='140' src="yunqiang1.jpg">
+<img align="right" width='140' src="yunqiang1.jpg">
 Yunqiang Li <br/>
 PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology <p/>
-
-
-Wenjie Pei is an Assistant Professor with the Harbin Institute of Technology, Shenzhen, China.
-<br />   
-He got his Ph.D. at Pattern Recognition and Computer Vision Lab, Delft University of Technology and worked with [Prof. David Tax (TU Delft)](https://scholar.google.com/citations?user=Q9U33SsAAAAJ) and [Dr. Laurens van der Maaten (Facebook AI Research)](https://lvdmaaten.github.io/). Before joining Harbin Institute of Technology, he was a Senior Researcher on Computer Vision at Tencent Youtu X-Lab. In 2016, he was a visiting scholar with the Carnegie Mellon University (__CMU__). His research
-interests lie in Computer Vision and Pattern Recognition including sequence modeling, deep learning, video/image captioning, image synthesis, etc.
-
-[Click here to download my Curriculum Vitae.](/resume_28-07-2019.pdf)
-
-__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD students, for research collaborations on Computer Vision and Machine Learning. Feel free to contact me with your CV.
-
 
 ## News
 * 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.

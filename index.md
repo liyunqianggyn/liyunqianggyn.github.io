@@ -1,6 +1,11 @@
 ## About Me
 
-<img align="right" width='140' src="yunqiang1.jpg">
+<td class="contents">
+<h2>Contact</h2>
+
+       <img src="yunqiang1.jpg" class="roundrect" height="200" border="0" alt="Image of Jan van Gemert"/><p/>
+        
+#<img align="right" width='140' src="yunqiang1.jpg">
 Yunqiang Li <br/>
 PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>

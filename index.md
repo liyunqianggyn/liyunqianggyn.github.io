@@ -67,7 +67,6 @@ Delft University of Technology
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
-&nbsp;
   
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xiangwei Shi, Seyran Khademi, __Yunqiang Li__, Jan van Gemert.<br/>
@@ -79,7 +78,6 @@ Delft University of Technology
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
-&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/TMM_zha.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  

@@ -5,7 +5,8 @@
 Yunqiang Li <br/>
 PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
-Delft University of Technology
+Delft University of Technology<br/>
+Supervised by <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 
 <b>Email:</b> y.li-19@tudelft.nl  <br/>

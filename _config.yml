@@ -9,6 +9,6 @@ owner:
   bio: "PhD candidate in Delft University of Technology."
   email: y.li-19@tudelft.nl
 
-#theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman

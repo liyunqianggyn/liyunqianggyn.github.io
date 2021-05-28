@@ -77,7 +77,8 @@ Delft University of Technology
 &emsp;"Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels" [<a href="https://arxiv.org/pdf/2010.08644.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
 <br><br>
-  
+<br><br>
+
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>

@@ -65,60 +65,6 @@ Delft University of Technology
 <br>
 &nbsp;
 
-------------------------------------------------------------------------------------------------------------------------------
-
-- <img align="left" width="300" src="publication/TMM.png">&emsp;Kai Yang, Zhenyu He\*, __Wenjie Pei__\*, Zikun Zhou, Xin Li, Di Yuan, Haijun Zhang. (\* corresponding authors.)  
-&emsp;[SiamCorners: Siamese Corner Networks for Visual Tracking](https://arxiv.org/abs/2104.07303).  
-&emsp;IEEE Transactions on Multimedia (__TMM__), 2021.  
-<br>
-&nbsp;
-
-------------------------------------------------------------------------------------------------------------------------------
-
-- <img align="left" width="300" src="publication/orthogonal center.png">&emsp;Weinong Wang, __Wenjie Pei__\*, Qiong Cao, Shu Liu, Guangming Lu and Yu-Wing Tai. (\* corresponding author.)  
-&emsp;[Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification](https://arxiv.org/abs/1908.10535).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
-<br>
-&nbsp;
-
-------------------------------------------------------------------------------------------------------------------------------
-
-- <img align="left" width="300" src="publication/SRHEN.png">&emsp; Yi Li, __Wenjie Pei__<sup>*</sup> and Zhenyu He<sup>*</sup>. (<sup>*</sup> Joint corresponding authors.)  
-&emsp;[SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondence in Deep Latent Space](coming soon).  
-&emsp;__ACM MM__, 2020.  
-<br><br><br>
-&nbsp;  
-
------------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/cpGAN.png">&emsp; Jiadong Liang<sup>#</sup>, __Wenjie Pei__<sup>#</sup> and Feng Lu. (<sup>#</sup> Equal contribution.)  
-&emsp;[CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://arxiv.org/pdf/1912.08562.pdf).  
-&emsp;__ECCV__  <span style="color:red">Spotlight</span>, (5% acceptance rate), 2020.  
-&emsp;[\[Code\]](https://github.com/dongdongdong666/CPGAN)
-<br><br><br><br><br>
-&nbsp;  
-
------------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/CommPN.png">&emsp; Qi Fan, Lei Ke, __Wenjie Pei__\*, Chi-Keung Tang and Yu-Wing Tai. (\* Corresponding author.)  
-&emsp;[Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation](/publication/CPMask.pdf).  
-&emsp;__ECCV__, 2020.  
-<br><br><br>
-&nbsp;  
-
------------------------------------------------------------------------------------------------------------------------------
-
-
-- <img align="left" width="300" src="publication/age_estimation.png">&emsp;__Wenjie Pei__, Hamdi Dibeklioğlu, Tadas Baltrušaitis and David M.J. Tax.  
-&emsp;[Attended End-to-end Architecture for Age Estimation from Facial Expression Videos](https://arxiv.org/pdf/1711.08690.pdf).  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2020.  
-<br>
-
----------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/NRNM.png">&emsp;Canmiao Fu<sup>#</sup>, __Wenjie Pei__<sup>#</sup>, Qiong Cao, Chaopeng Zhang, Xiaoyong Shen, Yong Zhao and Yu-wing Tai. (<sup>#</sup>both authors contributed equally).  
-&emsp;[Non-local Recurrent Neural Memory for supervised Sequence Modeling](https://arxiv.org/abs/1908.09535).  
-&emsp;__ICCV__ <span style="color:red">Oral</span>, (4.3% acceptance rate), 2019.  
-<br><br>
-&nbsp;
-
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/RDN.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
@@ -127,7 +73,7 @@ Delft University of Technology
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__<sup>#</sup>, Wenjie Pei<sup>#</sup>, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
 &emsp;equally).  
 &emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  

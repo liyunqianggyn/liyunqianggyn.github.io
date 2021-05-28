@@ -73,10 +73,16 @@ Delft University of Technology
 &nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
-&emsp;equally).  
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="pub/YunqiangLiBMVC19DeepFisherHashing.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+&nbsp;
+-----------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
+&emsp;"Deep Position-Sensitive Tracking" [<a href="pub/YunqiangLiBMVC19DeepFisherHashing.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
+&emsp;IEEE Transactions on Multimedia (__TMM__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------
 

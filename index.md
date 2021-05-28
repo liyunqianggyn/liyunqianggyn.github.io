@@ -15,7 +15,7 @@ Delft University of Technology
 * 12/2020, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 07/2020, two papers were accepted by International Conference on Pattern Recognition (__ICPR__).
 * 06/2019, one paper was accepted by Transactions on Multimedia (__TMM__).
-* 07/2019, one paper was accepted by British Machine Vision Virtual Conference (__BMVC (oral)__).
+* 07/2019, one paper was accepted by British Machine Vision Virtual Conference (__BMVC, oral__).
 
 ## Review
 

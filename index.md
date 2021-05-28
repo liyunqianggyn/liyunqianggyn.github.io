@@ -62,20 +62,20 @@ Delft University of Technology
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__)<span style="color:red">, 2021.  
 &nbsp;
------------------------------------------------------------------------------------------------------------------------------
-- <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
-&emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/abs/2010.07160">pdf</a>].<br/>  
-&emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
-<br>
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
+&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
+&emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
+-----------------------------------------------------------------------------------------------------------------------------
   
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/weightalign.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
-&emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
-&emsp;__ICCV__, 2019.  
-<br><br>
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
+&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
+&emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+&nbsp;
 -----------------------------------------------------------------------------------------------------------------------------
-
+  
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>

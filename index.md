@@ -58,9 +58,9 @@ Delft University of Technology
 ## Publications 
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
-&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
-&emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+- <img align="left" width="300" src="publication/AAAI.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
+&emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
+&emsp;Association for the Advancement of Artificial Intelligence (__AAAI__)<span style="color:red">, 2021.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Delft University of Technology
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
-&emsp;[Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).  
+&emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/abs/2010.07160">pdf</a>].<br/>  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
 &nbsp;

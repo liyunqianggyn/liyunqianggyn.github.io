@@ -80,7 +80,7 @@ Delft University of Technology
 -----------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/bmvc.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
+- <img align="left" width="300" src="publication/TMM_zha.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
 &emsp;"Deep Position-Sensitive Tracking" [<a href="https://ieeexplore.ieee.org/abstract/document/8734874">pdf</a>].<br/>
 &emsp;IEEE Transactions on Multimedia (__TMM__)<span style="color:red">, 2019.  
 &nbsp;

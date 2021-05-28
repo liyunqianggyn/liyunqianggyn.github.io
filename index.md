@@ -1,6 +1,6 @@
 ## Contact
 
-<img align="right" width='240' src="yunqiang2.jpg">
+<img align="top" width='240' src="yunqiang2.jpg">
 Yunqiang Li <br/>
 PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>

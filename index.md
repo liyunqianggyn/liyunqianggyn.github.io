@@ -34,7 +34,7 @@ Delft University of Technology
 
 - 2021   Reviewer of International Conference on Computer Vision (ICCV)
 - 2021   Reviewer of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- 2021   Winter Conference on Applications of Computer Vision (WACV) 
+- 2021   Reviewer of Winter Conference on Applications of Computer Vision (WACV) 
 - 2020   Reviewer of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - 2020   Reviewer of British Machine Vision Virtual Conference (BMVC)
 - 2019   Reviewer of British Machine Vision Virtual Conference (BMVC)

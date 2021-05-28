@@ -81,8 +81,8 @@ Delft University of Technology
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
-&emsp;"Deep Position-Sensitive Tracking" [<a href="pub/YunqiangLiBMVC19DeepFisherHashing.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
-&emsp;IEEE Transactions on Multimedia (__TMM__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+&emsp;"Deep Position-Sensitive Tracking" [<a href="https://ieeexplore.ieee.org/abstract/document/8734874">pdf</a>].<br/>
+&emsp;IEEE Transactions on Multimedia (__TMM__) <span style="color:red">Oral</span>, 2019.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------
 

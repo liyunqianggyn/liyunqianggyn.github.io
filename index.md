@@ -12,17 +12,10 @@ Delft University of Technology
 <b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
 
 ## News
-* 04/2021, one paper (on image background restoration, including reflection/raindrop/haze removal) was accepted by __TIP__.
-* 04/2021, one paper (on visual tracking) was accepted by __TMM__.
-* 10/2020, one paper (on person Re-ID) was accepted by __TIP__.
-* 07/2020, one paper is accepted by __ACM MM__, 2020.
-* 07/2020, two papers are accepted by __ECCV__ (one spotlight), 2020.
-* 01/2020, I joined Harbin Institute of Technology, Shenzhen.
-* 10/2019, one paper (on age estimation) was accepted by __TIP__.
-* 07/2019, two papers were accepted by __ICCV__ (one oral), 2019.
+* 12/2020, one paper was accepted by __AAAI__, 2021.
+* 07/2020, two papers were accepted by __ICPR__, 2020.
+* 06/2019, one paper was accepted by __TMM__.
 * 07/2019, one paper was accepted by __BMVC (oral)__, 2019.
-- <b>Accepted paper.</b> CVPR-W 2019, "ViDeNN: Deep Blind Video Denoising" [<a href="pub/clausCVPRW19videoDenoise.pdf">pdf</a>, <a href="https://github.com/clausmichele/ViDeNN">code</a>].<br/>
-
 
 ## Review
 

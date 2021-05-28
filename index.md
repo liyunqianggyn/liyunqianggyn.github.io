@@ -58,10 +58,11 @@ Delft University of Technology
 ## Publications 
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/AAAI.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__)<span style="color:red">, 2021.  
 &nbsp;
+  
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>

@@ -32,7 +32,7 @@ Delft University of Technology
   Research area: Deep Learning and Computer Vision.
 * 03/2017 - 02/2018: __Xi’an Jiaotong University (XJTU)__, China. <br/>
   __PhD__ candidate. 
-* 09/ 2014 - 12/2016: __Joint education of Xi’an Jiaotong University and Air force Engineering__, China.  
+* 09/ 2014 - 12/2016: Joint education of __Xi’an Jiaotong University (XJTU) and Air force Engineering__, China.  
   __Master__ of Signal and Information Processing.  
 
 <!-- ## Experience

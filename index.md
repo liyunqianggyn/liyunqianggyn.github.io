@@ -1,6 +1,6 @@
 ## Contact
 
-<img align="top" width='250' src="yunqiang3.jpg">
+<img align="top" width='200' src="yunqiang3.jpg">
 
 Yunqiang Li <br/>
 PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>

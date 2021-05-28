@@ -75,7 +75,7 @@ Delft University of Technology
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
 &emsp;equally).  
-&emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206).  
+&emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206), <a href="https://github.com/clausmichele/ViDeNN">code</a>.  
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------

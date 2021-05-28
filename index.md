@@ -43,7 +43,7 @@ Delft University of Technology
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
  -->
-## Research Interest
+<!-- ## Research Interest
 - Image Synthesis
 - video/image captioning
 - Sequence (Time Series) Modelling
@@ -53,16 +53,9 @@ Delft University of Technology
 - Sequence-related applications, e.g, age estimation from facial videos
 - Object Detection
 - Person Re-Identification
-- Hashing for Image Retrival
+- Hashing for Image Retrival -->
 
 ## Publications 
-
-- PhD Thesis  
-__Wenjie Pei__.
-[Models for Supervised Learning On Sequence Data](https://repository.tudelft.nl/islandora/object/uuid%3Afff15717-71ec-402d-96e6-773884659f2c?collection=research).
-Delft University of Technology, 2018.  
-<br><br>
-
 
 ------------------------------------------------------------------------------------------------------------------------------ 
 

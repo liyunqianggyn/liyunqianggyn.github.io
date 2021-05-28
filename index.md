@@ -1,5 +1,4 @@
-<td class="contents">
-<h2>Contact</h2>
+## Contact
 
 <img align="right" width='140' src="yunqiang1.jpg">
 Yunqiang Li <br/>

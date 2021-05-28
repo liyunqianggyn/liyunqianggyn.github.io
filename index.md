@@ -72,12 +72,14 @@ Delft University of Technology
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
 &nbsp;
+-----------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/weightalign.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
 &emsp;__ICCV__, 2019.  
 <br><br>
+-----------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  

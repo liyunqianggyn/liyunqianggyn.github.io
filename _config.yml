@@ -1,0 +1,14 @@
+# Site wide configuration
+#theme: jekyll-theme-minimal
+title: Wenjie Pei  (裴文杰)
+locale: en_US
+#description: PhD candidate in Delft University of Technology
+#description: Senior Researcher in Youtu X-Lab, Tencent
+description: Assistant Professor in Harbin Institute of Technology, Shenzhen, China
+  
+owner:
+  name: Wenjie Pei
+  bio: "PhD candidate in Delft University of Technology."
+  email: wenjiecoder@gmail.com
+
+#theme: jekyll-theme-leap-day

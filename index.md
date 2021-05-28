@@ -75,8 +75,7 @@ Delft University of Technology
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert (<sup>#</sup>both authors contributed 
 &emsp;equally).  
-&emsp;"ViDeNN: Deep Blind Video Denoising" [<a href="pub/clausCVPRW19videoDenoise.pdf">pdf</a>, <a href="https://github.com/clausmichele/ViDeNN">code</a>].<br/>
-&emsp;[Push for Quantization: Deep Fisher Hashing](https://arxiv.org/abs/1909.00206), <a href="https://github.com/clausmichele/ViDeNN">code</a>.  
+&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="pub/YunqiangLiBMVC19DeepFisherHashing.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------

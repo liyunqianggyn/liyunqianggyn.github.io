@@ -12,10 +12,10 @@ Delft University of Technology
 <b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
 
 ## News
-* 3/2021, one paper was accepted by __AAAI__, 2021.
-* 07/2020, two papers were accepted by __ICPR__, 2020.
+* 12/2020, one paper was accepted by __AAAI__.
+* 07/2020, two papers were accepted by __ICPR__.
 * 06/2019, one paper was accepted by __TMM__.
-* 07/2019, one paper was accepted by __BMVC (oral)__, 2019.
+* 07/2019, one paper was accepted by __BMVC (oral)__.
 
 ## Review
 

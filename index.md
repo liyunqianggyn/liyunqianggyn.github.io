@@ -26,9 +26,9 @@ Delft University of Technology
 - 2020   Reviewer of British Machine Vision Virtual Conference (BMVC)
 - 2019   Reviewer of British Machine Vision Virtual Conference (BMVC)
 
-## Education Background
-* 10/2013 - 10/2017: __Delft University of Technology (TU Delft)__, the Netherlands.  
-  __PhD__ candidate in Pattern Recognition and Computer Vision Lab.  
+## Education
+* 02/2018 - Now: __Delft University of Technology (TU Delft)__, the Netherlands.  
+  __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/>.  
   Research area: Machine Learning and Computer Vision, supervised by [Prof. David Tax](https://scholar.google.com/citations?user=Q9U33SsAAAAJ) and [Dr. Laurens van der Maaten](https://lvdmaaten.github.io/).
 * 08/2011 - 08/2013: __Eindhoven University of Technology (TU/e)__, the Netherlands.  
   __Master__ of Computer Science and Engineering.  

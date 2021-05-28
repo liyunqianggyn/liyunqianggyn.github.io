@@ -57,6 +57,14 @@ Delft University of Technology
 
 ## Publications 
 
+---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
+&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
+&emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
+&nbsp;
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 ------------------------------------------------------------------------------------------------------------------------------ 
 
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
@@ -70,11 +78,10 @@ Delft University of Technology
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  
 &emsp;__ICCV__, 2019.  
 <br><br>
-&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
-&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
+&emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------

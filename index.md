@@ -21,13 +21,7 @@ Delft University of Technology
 * 10/2019, one paper (on age estimation) was accepted by __TIP__.
 * 07/2019, two papers were accepted by __ICCV__ (one oral), 2019.
 * 07/2019, one paper was accepted by __BMVC (oral)__, 2019.
-* 03/2019, one paper was accepted by __CVPR__, 2019.
-* 07/2018, I joined Tencent Youtu X-Lab.
-* 06/2018, I successfully defended my Ph.D. Thesis and became Dr.!
-* 08/2017, one full paper was accepted by __CIKM__, 2017.
-* 07/2017, I participated in __Doctoral Consortium in CVPR 2017__, mentored by [Dr. Kaiming He](http://kaiminghe.com/).
-* 03/2017, one paper was accepted by __CVPR__, 2017.
-* 01/2017, one paper was accepted by __TNNLS__.
+- <b>Accepted paper.</b> CVPR-W 2019, "ViDeNN: Deep Blind Video Denoising" [<a href="pub/clausCVPRW19videoDenoise.pdf">pdf</a>, <a href="https://github.com/clausmichele/ViDeNN">code</a>].<br/>
 
 
 ## Review

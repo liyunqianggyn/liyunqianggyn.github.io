@@ -27,30 +27,22 @@ Delft University of Technology
 - 2019   Reviewer of British Machine Vision Virtual Conference (BMVC)
 
 ## Education
-* 02/2018 - Now: Joint education of __Delft University of Technology (TU Delft)__, the Netherlands and __Xi’an Jiaotong University__.  
+* 02/2018 - Now: __Delft University of Technology (TU Delft)__, Netherlands.  
   __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
   Research area: Deep Learning and Computer Vision.
-* 03/2017 - 02/2018: __Delft University of Technology (TU Delft)__, the Netherlands.  
-  __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
+* 03/2017 - 02/2018: __Xi’an Jiaotong University (XJTU)__, China.  
   Research area: Deep Learning and Computer Vision.  
-* 08/2011 - 08/2013: __Eindhoven University of Technology (TU/e)__, the Netherlands.  
-  __Master__ of Computer Science and Engineering.  
-  Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php).
-* 09/2008 - 03/2011: __ZheJiang University (ZJU)__, China.  
-  __Master__ of Computer Science and Technology in State Key Lab of CAD&CG.  
-  Research area: Computer Graphics and Visualization, supervised by [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Hujun Bao](http://www.cad.zju.edu.cn/home/bao/).
-* 09/2004 - 06/2008: __Shanghai JiaoTong University (SJTU)__, China.  
-  __Bachelor__ of Computer Science and Engineering.  
- __Bachelor__ of Business Administration.
+* 09/ 2014 - 12/2016: __Joint education of Xi’an Jiaotong University and Air force Engineering__, China.  
+  __Master__ of Signal and Information Processing.  
 
-## Experience
+<!-- ## Experience
 - 07/2018 - 12/2019, __Tencent Youtu X-Lab__.  
   Senior Researcher.
 - 07/2016 - 12/2016, __Carnegie Mellon University__.  
   Visiting Scholar in Language Technolgy Institute (LTI).  
   Supervisors: [Prof. Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and [Dr. Tadas Baltrušaitis](https://www.cl.cam.ac.uk/~tb346/).
 - 03/2013 - 08/2013, Intern at __Philips Research Eindhoven__.
-
+ -->
 ## Research Interest
 - Image Synthesis
 - video/image captioning

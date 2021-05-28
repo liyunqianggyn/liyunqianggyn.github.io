@@ -1,5 +1,3 @@
-## About Me
-
 <td class="contents">
 <h2>Contact</h2>
 

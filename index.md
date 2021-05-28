@@ -30,7 +30,7 @@ Delft University of Technology
 * 01/2017, one paper was accepted by __TNNLS__.
 
 
-## Conference Review
+## Review
 
 - 2021   Reviewer of International Conference on Computer Vision (ICCV)
 - 2021   Reviewer of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)

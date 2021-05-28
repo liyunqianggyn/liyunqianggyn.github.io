@@ -63,15 +63,12 @@ Delft University of Technology
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__)<span style="color:red">, 2021.  
 &nbsp;
 -----------------------------------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------------------------------------- 
-
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xin Feng, __Wenjie Pei__\*, Zihui Jia, Fanglin Chen, David Zhang, Guangming Lu\*. (\* corresponding authors.)  
 &emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/abs/2010.07160">pdf</a>].<br/>  
 &emsp;IEEE Transactions on Image Processing (__TIP__), 2021.  
 <br>
 &nbsp;
------------------------------------------------------------------------------------------------------------------------------
+  
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/weightalign.png">&emsp;Lei Ke, __Wenjie Pei__, Ruiyu Li, Xiaoyong Shen and Yu-wing Tai. (This work is conducted by my intern Lei under my supervision).  
 &emsp;[Reflective Decoding Network for Image Captioning](https://arxiv.org/abs/1908.11824).  

@@ -1,10 +1,11 @@
 ## About Me
 
 <img align="right" width='140' src="yunqiang1.jpg">
-Yunqiang Li <br />   
-PhD candidate at Computer vision lab <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/> 
-Faculty of Electrical Engineering, Mathematics and Computer Science<br />   
-Delft University of Technology
+Yunqiang Li <br/>
+PhD candidate of the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
+Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
+Delft University of Technology <p/>
+
 
 Wenjie Pei is an Assistant Professor with the Harbin Institute of Technology, Shenzhen, China.
 <br />   

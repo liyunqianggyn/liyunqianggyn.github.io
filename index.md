@@ -62,9 +62,10 @@ Delft University of Technology
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2021.  
 <br><br>
-  
+<br><br>
+
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xiangwei Shi, __Yunqiang Li__, Xin Liu, Jan van Gemert.<br/>
+- <img align="left" width="300" src="publication/weightalign.png">&emsp;Xiangwei Shi, __Yunqiang Li__, Xin Liu, Jan van Gemert.<br/>
 &emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/pdf/2010.07160.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
 <br><br>

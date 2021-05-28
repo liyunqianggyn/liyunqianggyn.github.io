@@ -27,9 +27,12 @@ Delft University of Technology
 - 2019   Reviewer of British Machine Vision Virtual Conference (BMVC)
 
 ## Education
-* 02/2018 - Now: __Delft University of Technology (TU Delft)__, the Netherlands.  
+* 02/2018 - Now: Joint education of __Delft University of Technology (TU Delft)__, the Netherlands and __Xi’an Jiaotong University__.  
   __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
-  Research area: Deep Learning and Computer Vision, supervised by [Prof. Jan van Gemert](https://jvgemert.github.io/).
+  Research area: Deep Learning and Computer Vision.
+* 03/2017 - 02/2018: __Delft University of Technology (TU Delft)__, the Netherlands.  
+  __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
+  Research area: Deep Learning and Computer Vision.  
 * 08/2011 - 08/2013: __Eindhoven University of Technology (TU/e)__, the Netherlands.  
   __Master__ of Computer Science and Engineering.  
   Research area: Data Mining, supervised by [Prof. Toon Calders](http://cs.ulb.ac.be/members/tcalders/doku.php).

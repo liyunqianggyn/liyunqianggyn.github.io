@@ -12,3 +12,5 @@ owner:
   email: wenjiecoder@gmail.com
 
 #theme: jekyll-theme-leap-day
+
+theme: jekyll-theme-cayman

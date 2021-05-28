@@ -7,7 +7,7 @@ Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology <p/>
 
 
-<b>Email:</b> y.li-19 at-sign TUDelft dot nl  <br/>
+<b>Email:</b> y.li-19@tudelft.nl  <br/>
 <b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
 
 ## News

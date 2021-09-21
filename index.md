@@ -10,7 +10,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 
 <b>Email:</b> y.li-19@tudelft.nl  <br/>
-<b>github:</b> <a href="https://github.com/liyunqianggyn">https://github.com/liyunqianggyn</a> <br/>
+<b></b> <a href="github">https://github.com/liyunqianggyn</a> <br/>
 
 ## News
 * 12/2020, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).

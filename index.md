@@ -13,6 +13,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <b></b> <a href="https://github.com/liyunqianggyn">github</a> <br/>
 
 ## News
+* 12/2021, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 12/2020, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 07/2020, two papers were accepted by International Conference on Pattern Recognition (__ICPR__).
 * 06/2019, one paper was accepted by Transactions on Multimedia (__TMM__).

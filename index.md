@@ -84,17 +84,19 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2021.  
 <br><br>
 <br><br>
+<br><br>
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/weightalign.png">&emsp;Xiangwei Shi\*, __Yunqiang Li__\*, Xin Liu\*, Jan van Gemert. (\*contributed equally.)<br/>
 &emsp;"WeightAlign: Normalizing Activations by Weight Alignment" [<a href="https://arxiv.org/pdf/2010.07160.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
 <br><br>
-
+<br><br>
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xiangwei Shi, Seyran Khademi, __Yunqiang Li__, Jan van Gemert.<br/>
 &emsp;"Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels" [<a href="https://arxiv.org/pdf/2010.08644.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
+<br><br>
 <br><br>
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  

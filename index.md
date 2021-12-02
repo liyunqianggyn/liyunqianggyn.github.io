@@ -74,7 +74,9 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <br><br>
 <br><br>
 <br><br>
-
+<br><br>
+<br><br>
+<br><br>
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/aaaihashing1.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>

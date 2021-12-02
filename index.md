@@ -77,7 +77,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <br><br>
 <br><br>
 <br><br>
-
+<br><br>
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/aaaihashing1.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
@@ -102,13 +102,13 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 - <img align="left" width="300" src="publication/bmvc.png">&emsp;__Yunqiang Li__, Wenjie Pei, Yufei Zha and Jan van Gemert.  
 &emsp;"Push for Quantization: Deep Fisher Hashing" [<a href="https://arxiv.org/pdf/1909.00206.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Push-for-Quantization-Deep-Fisher-Hashing">code</a>].<br/>
 &emsp;British Machine Vision Conference (__BMVC__) <span style="color:red">Oral</span>, (4.7% acceptance rate), 2019.  
-
+<br><br>
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/TMM_zha.png">&emsp;Yufei Zha, Tao Ku,  __Yunqiang Li__, Peng Zhang.  
 &emsp;"Deep Position-Sensitive Tracking" [<a href="https://ieeexplore.ieee.org/abstract/document/8734874">pdf</a>].<br/>
 &emsp;IEEE Transactions on Multimedia (__TMM__), 2019.  
 <br><br>
-
+<br><br>
   
 -----------------------------------------------------------------------------------------------------------------------------
 

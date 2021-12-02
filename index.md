@@ -108,7 +108,6 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 &emsp;"Deep Position-Sensitive Tracking" [<a href="https://ieeexplore.ieee.org/abstract/document/8734874">pdf</a>].<br/>
 &emsp;IEEE Transactions on Multimedia (__TMM__), 2019.  
 <br><br>
-<br><br>
   
 -----------------------------------------------------------------------------------------------------------------------------
 

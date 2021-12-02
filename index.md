@@ -68,6 +68,14 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <br><br> -->
 
 ---------------------------------------------------------------------------------------------------------------------------- 
+- <img align="left" width="300" src="publication/AAAI2022.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
+&emsp;"Equal Bits: Enforcing Equally Distributed Binary Network Weights" [<a href="https://arxiv.org/submit/4057174/view">pdf</a>, <a href="https://github.com/liyunqianggyn/Equal-Bits-BNN">code</a>].<br/>
+&emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2022.  
+<br><br>
+<br><br>
+<br><br>
+
+---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/aaaihashing1.png">&emsp;__Yunqiang Li__ and Jan van Gemert.  
 &emsp;"Deep Unsupervised Image Hashing by Maximizing Bit Entropy" [<a href="https://arxiv.org/pdf/2012.12334.pdf">pdf</a>, <a href="https://github.com/liyunqianggyn/Deep-Unsupervised-Image-Hashing">code</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2021.  

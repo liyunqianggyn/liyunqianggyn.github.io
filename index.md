@@ -77,7 +77,6 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <br><br>
 <br><br>
 <br><br>
-<br><br>
 
 
 ---------------------------------------------------------------------------------------------------------------------------- 
@@ -99,6 +98,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 - <img align="left" width="300" src="publication/Zoomcam.png">&emsp;Xiangwei Shi, Seyran Khademi, __Yunqiang Li__, Jan van Gemert.<br/>
 &emsp;"Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels" [<a href="https://arxiv.org/pdf/2010.08644.pdf">pdf</a>].<br/>
 &emsp;International Conference on Pattern Recognition (__ICPR__), 2020.
+<br><br>
 <br><br>
 
 ---------------------------------------------------------------------------------------------------------------------------- 

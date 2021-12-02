@@ -113,8 +113,6 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 &emsp;IEEE Transactions on Multimedia (__TMM__), 2019.  
 
   
------------------------------------------------------------------------------------------------------------------------------
-
 
 <!-- ## Academic Services
 Serve as reviewers for:

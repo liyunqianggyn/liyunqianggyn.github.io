@@ -1,5 +1,3 @@
-## Contact
-
 <img align="top" width='200' src="yunqiang3.jpg">
 
 ## Yunqiang Li <br/>

@@ -67,7 +67,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/AAAI2022.png">&emsp;__Yunqiang Li__,  Silvia L. Pintea, and Jan van Gemert.  
-&emsp;"Equal Bits: Enforcing Equally Distributed Binary Network Weights" [<a href="https://arxiv.org/submit/4057174/view">pdf</a>, <a href="https://github.com/liyunqianggyn/Equal-Bits-BNN">code</a>].<br/>
+&emsp;"Equal Bits: Enforcing Equally Distributed Binary Network Weights" [<a href="https://arxiv.org/abs/2112.03406">pdf</a>, <a href="https://github.com/liyunqianggyn/Equal-Bits-BNN">code</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2022.  
 <br><br>
 <br><br>

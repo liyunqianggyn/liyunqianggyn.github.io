@@ -11,7 +11,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 <b></b> <a href="https://github.com/liyunqianggyn">github</a> <br/>
 
 ## News
-* 12/2021, working for a project with deep pose estimation to detect keypoints 
+* 12/2021, working for a project with deep pose estimation to detect animal keypoints 
 * 12/2021, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 12/2020, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 07/2020, two papers were accepted by International Conference on Pattern Recognition (__ICPR__).

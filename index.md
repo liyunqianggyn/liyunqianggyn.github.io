@@ -8,9 +8,10 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 
 <b>Email:</b> y.li-19@tudelft.nl  <br/>
-<b></b> <a href="https://github.com/liyunqianggyn">github</a> 
+<b></b> 
 <a href="https://github.com/liyunqianggyn/liyunqianggyn.github.io/blob/main/YunqiangLi_Resume.pdf">My Resume</a><br/>
-
+and 
+<a href="https://github.com/liyunqianggyn">My Github</a> 
 
 ## News
 * 12/2021, working for a project with deep pose estimation to detect animal keypoints 

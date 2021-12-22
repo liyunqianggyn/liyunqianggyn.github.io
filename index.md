@@ -9,7 +9,7 @@ Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 <b>Email:</b> y.li-19@tudelft.nl  <br/>
 <b></b> 
-<a href="https://github.com/liyunqianggyn/liyunqianggyn.github.io/blob/main/YunqiangLi_Resume.pdf">My Resume</a><br/>
+<a href="https://github.com/liyunqianggyn/liyunqianggyn.github.io/blob/main/YunqiangLi_Resume.pdf">My Resume</a>
 and 
 <a href="https://github.com/liyunqianggyn">My Github</a> 
 

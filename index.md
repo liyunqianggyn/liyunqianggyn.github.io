@@ -125,25 +125,4 @@ and
 
   
 
-<!-- ## Academic Services
-Serve as reviewers for:
-- Conferences: __CVPR__, __ICCV__, __ICML__, __NeurIPS__, __IJCAI__, etc.
-- Journals: __TNNLS__, __TIP__, __TMM__, Pattern Recognition (__PR__), Transactions on Affective Computing (__TAFFC__), etc.
- -->
 
-<!---
-## Awards
-- 2011 - 2013: Talent Scholarship Program (TSP), __TU/e & Philips__;
-- 2008 - 2011: First-grade Scholarship, __ZJU__;
-- 2006: Excellent Scholarship, __SJTU__;
-- 2004 - 2008: Zhaojianjun Scholarship (only one in my department), __SJTU__;
-
-## Participated Projects
-- 2013 - 2016: Smart Assisted Living involving Informal careGivers (SALIG++) project, __AAL-Europe__;  
-I was responsible for the activity recognition.
--->
-
-<!-- ## Contact 
-Email: wenjiecoder@outlook.com, wenjiecoder@gmail.com
-
-<a href="http://info.flagcounter.com/erJl"><img src="http://s10.flagcounter.com/map/erJl/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Free counters!" border="0"></a> -->

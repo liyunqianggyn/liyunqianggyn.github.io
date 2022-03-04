@@ -66,7 +66,7 @@ and
 
 ---------------------------------------------------------------------------------------------------------------------------- 
 - <img align="left" width="300" src="publication/AAAI2022.png">&emsp;__Yunqiang Li__,  Silvia L. Pintea, and Jan van Gemert.  
-&emsp;"Equal Bits: Enforcing Equally Distributed Binary Network Weights" [<a href="https://surfdrive.surf.nl/files/index.php/s/oPoEvbLJiJDD5Yn">Report</a>, <a href="https://github.com/liyunqianggyn/Equal-Bits-BNN">Videos</a>].<br/>
+&emsp;"Equal Bits: Enforcing Equally Distributed Binary Network Weights" [<a href="https://surfdrive.surf.nl/files/index.php/s/oPoEvbLJiJDD5Yn">Report</a>, <a href="https://surfdrive.surf.nl/files/index.php/s/b3Z15xU2bEnXaJy">Videos</a>].<br/>
 &emsp;Association for the Advancement of Artificial Intelligence (__AAAI__), 2022.  
 <br><br>
 <br><br>

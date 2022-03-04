@@ -65,7 +65,7 @@ and
 ## Project 
 
 ---------------------------------------------------------------------------------------------------------------------------- 
-- <img align="left" width="300" src="publication/poseestimation.eps">&emsp;__Yunqiang Li__,  Niels Ilmer, Louis Gosschalk, and Jan van Gemert.  
+- <img align="left" width="300" src="publication/poseestimation.png">&emsp;__Yunqiang Li__,  Niels Ilmer, Louis Gosschalk, and Jan van Gemert.  
 &emsp;"Minimizing animal welfare risks: Deep learning for animal pose estimation".<br/>
 &emsp;[<a href="https://surfdrive.surf.nl/files/index.php/s/oPoEvbLJiJDD5Yn">Report</a>, <a href="https://surfdrive.surf.nl/files/index.php/s/b3Z15xU2bEnXaJy">Some videos</a>], 2022.  
 <br><br>

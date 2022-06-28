@@ -3,9 +3,7 @@
 ## Yunqiang Li <br/>
 
 Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a>  & Guest Researcher at <a href="http://visionlab.tudelft.nl">TU Delft </a><br/>
-Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
-Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
-Delft University of Technology<br/>
+Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a>, Delft University of Technology<br/>
 Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 

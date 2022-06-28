@@ -3,7 +3,7 @@
 ## Yunqiang Li <br/>
 
 Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a>  & Guest Researcher at <a href="http://visionlab.tudelft.nl">TU Delft. </a><br/>
-My main research interests are Network Pruning and Network Quantization 
+My main research interests are Network Pruning and Network Quantization <br/>
 Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a>, TU Delft with Prof. <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 

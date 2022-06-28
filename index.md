@@ -5,7 +5,7 @@
 Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a>  & Guest Researcher at <a href="http://visionlab.tudelft.nl">TU Delft. </a><br/>
 My main research interests are Network Pruning and Network Quantization 
 
-Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a>, Delft University of Technology (TU Delft)<br/>
+Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a>, TU Delft<br/>
 My Supervisor is <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 

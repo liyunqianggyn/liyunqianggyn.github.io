@@ -37,7 +37,7 @@ and
 - 2019   Reviewer of British Machine Vision Virtual Conference (BMVC)
 
 ## Education
-* 02/2018 - Now: __Delft University of Technology (TU Delft)__, Netherlands.  
+* 02/2018 - 02/2022: __Delft University of Technology (TU Delft)__, Netherlands.  
   __PhD__ candidate in <a href="http://visionlab.tudelft.nl">Computer Vision Lab</a><br/> 
   Research area: Deep Learning and Computer Vision.
 * 03/2017 - 02/2018: __Xi’an Jiaotong University (XJTU)__, China. <br/>

@@ -1,8 +1,9 @@
 <img align="top" width='200' src="yunqiang3.jpg">
 
 ## Yunqiang Li <br/>
-Guest Researcher
-I did my PhD at the <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
+
+Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a><br/>  & Guest Researcher
+Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology<br/>
 Supervisor <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>

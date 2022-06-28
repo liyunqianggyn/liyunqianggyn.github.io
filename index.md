@@ -8,7 +8,7 @@ Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision la
 My Supervisor is <a href="https://jvgemert.github.io/">Jan van Gemert</a><br/>
 
 
-<b>Email:</b> yunqiang.li@axelera.ai & y.li-19@tudelft.nl  <br/>
+<b>Email:</b> y.li-19@tudelft.nl & yunqiang.li@axelera.ai  <br/>
 <b></b> 
 [Curriculum Vitae.](/YunqiangLi_Resume.pdf)
 and 

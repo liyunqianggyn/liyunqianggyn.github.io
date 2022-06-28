@@ -2,7 +2,7 @@
 
 ## Yunqiang Li <br/>
 
-Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a><br/>  & Guest Researcher
+Deep Learning Researcher at <a href="https://www.axelera.ai/team/">Axelera AI</a>  & Guest Researcher at <a href="http://visionlab.tudelft.nl">Computer vision lab, TUDelft</a><br/>
 Before, I did my PhD at <a href="http://visionlab.tudelft.nl">Computer vision lab</a><br/>
 Faculty of Electrical Engineering, Mathematics and Computer Science<br/>
 Delft University of Technology<br/>

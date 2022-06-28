@@ -14,7 +14,7 @@ and
 <a href="https://github.com/liyunqianggyn">My Github</a> 
 
 ## News
-* 04/2022, deep learning researcher at Axelera AI   
+* 04/2022, deep learning researcher at Axelera AI on Pruning & Quantization topics
 * 12/2021, working for a project with deep pose estimation to detect animal keypoints 
 * 12/2021, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).
 * 12/2020, one paper was accepted by Association for the Advancement of Artificial Intelligence (__AAAI__).

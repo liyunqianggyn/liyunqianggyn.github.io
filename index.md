@@ -1,4 +1,4 @@
-<img align="top" width='500' src="y11.jpeg">
+<img align="top" width='300' src="y11.jpeg">
 
 ## Yunqiang Li <br/>
 

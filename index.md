@@ -22,6 +22,7 @@ and
 * 07/2019, one paper was accepted by British Machine Vision Virtual Conference (__BMVC, oral__).
 
 ## Review
+- 2022   Reviewer of IEEE Transactions on Multimedia (TMM)
 - 2022   Reviewer of European Conference on Computer Vision (ECCV)
 - 2022   Reviewer of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - 2021   Reviewer of British Machine Vision Virtual Conference (BMVC)
